@@ -1,23 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <bank xmlns="https://checkit.clontz.org" version="0.2">
-    <title>New CheckIt Bank</title>
+    <title>MATH 160 Bank</title>
     <slug>new-checkit-bank</slug>
     <url>https://checkit.clontz.org</url>
     <outcomes>
         <outcome>
-            <title>Sample Outcome</title>
-            <slug>EX1</slug>
-            <path>outcomes/EX1</path>
+            <title>Finding Domain and Combining Functions</title>
+            <slug>SLO-1</slug>
+            <path>outcomes/SLO-1</path>
             <description>
-Simplify the sum of two monomials.
+Find the Domain of a rational functions and use functions to model buisness applications
+            </description>
+        </outcome>
+      <outcome>
+            <title>Limits</title>
+            <slug>SLO-2</slug>
+            <path>outcomes/SLO-2</path>
+            <description>
+Find Limits graphically and analytically
             </description>
         </outcome>
         <outcome>
-            <title>Sample Image Outcome</title>
-            <slug>IMG1</slug>
-            <path>outcomes/IMG1</path>
+            <title>Continuity</title>
+            <slug>SLO-3</slug>
+            <path>outcomes/SLO-3</path>
             <description>
-Example of generating graphics.
+Determine how to make a function continuous and what type of discontinuity exists
+            </description>
+        </outcome>
+         <outcome>
+            <title>Limit Definition of the Derivative</title>
+            <slug>SLO-4</slug>
+            <path>outcomes/SLO-4</path>
+            <description>
+Use the limit definition to find the of the derivative to find the derivative of a function
+            </description>
+        </outcome>
+         <outcome>
+            <title> Elementary Derivative Rules</title>
+            <slug>SLO-5</slug>
+            <path>outcomes/SLO-5</path>
+            <description>
+Find the derivative with elementary rules
+            </description>
+        </outcome>
+        <outcome>
+            <title> Product and Quotient Rules</title>
+            <slug>SLO-6</slug>
+            <path>outcomes/SLO-6</path>
+            <description>
+Find the derivatives using the product and quotient rules
             </description>
         </outcome>
     </outcomes>

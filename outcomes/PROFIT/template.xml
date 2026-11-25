@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+<knowl>
+    <intro>
+        <p>A manufacturer has monthly cost <m>C(x)={{unit_cost}}x+{{fixed_cost}}</m> dollars and monthly revenue <m>R(x)={{unit_revenue}}x</m> dollars, where <m>x</m> is the number of units produced and sold.</p>
+    </intro>
+
+        <knowl>
+            <content>
+                <p>Find the profit function <m>P(x)</m>.</p>
+            </content>
+            <outtro>
+                <p><m>P(x)=R(x)-C(x)={{margin}}x-{{fixed_cost}}</m>.</p>
+            </outtro>
+        </knowl>
+        <knowl >
+            <content>
+                <p>Find the profit when <m>{{production}}</m> units are produced and sold.</p>
+            </content>
+            <outtro>
+                <p><m>P({{production}})={{margin}}({{production}})-{{fixed_cost}}={{profit}}</m> dollars.</p>
+            </outtro>
+        </knowl>
+         
+  </knowl>
+</knowl>

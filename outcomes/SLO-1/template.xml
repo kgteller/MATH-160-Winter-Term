@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <knowl>
+    <content>
+        <p>Find the domain of <m>f(x)=\frac{ {{numerator}} }{ {{denominator}} }</m>. Write your answer in interval notation.</p>
+    </content>
+    <outtro>
+        <p>The denominator factors as <m>{{factored_denominator}}</m>, so exclude <m>x={{root_left}}</m> and <m>x={{root_right}}</m>.</p>
+        <p>The domain is <m>{{domain}}</m>.</p>
+    </outtro>
+    </knowl>
+
+    <knowl>
+    <intro>
+        <p>A manufacturer has monthly cost <m>C(x)={{cost}}</m> dollars and monthly revenue <m>R(x)={{revenue}}</m> dollars, where <m>x</m> is the number of units produced and sold.</p>
+    </intro>
+
+        <knowl>
+            <content>
+                <p>Find the profit function <m>P(x)</m>.</p>
+            </content>
+            <outtro>
+                <p><m>P(x)=R(x)-C(x)={{profit}}</m>.</p>
+            </outtro>
+        </knowl>
+        <knowl >
+            <content>
+                <p>Find the profit when <m>{{production}}</m> units are produced and sold.</p>
+            </content>
+            <outtro>
+                <p><m>P({{production}})={{total}}</m> dollars.</p>
+            </outtro>
+        </knowl>
+         
+  </knowl>
+</knowl>

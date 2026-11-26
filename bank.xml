@@ -49,7 +49,79 @@ Find the derivative with elementary rules
             <slug>SLO-6</slug>
             <path>outcomes/SLO-6</path>
             <description>
-Find the derivatives using the product and quotient rules
+Find the derivative using the Product and Quotient Rules
+            </description>
+        </outcome>
+        <outcome>
+            <title> Chain Rule</title>
+            <slug>SLO-7</slug>
+            <path>outcomes/SLO-7</path>
+            <description>
+Find the derivative using Chain Rule
+            </description>
+        </outcome>
+         <outcome>
+            <title> Marginals, Elasticity, and Higher order Derivatives</title>
+            <slug>SLO-8</slug>
+            <path>outcomes/SLO-8</path>
+            <description>
+Find the derivative using Chain Rule
+            </description>
+        </outcome>
+        <outcome>
+            <title>  Exponentials and Logs</title>
+            <slug>SLO-9</slug>
+            <path>outcomes/SLO-9</path>
+            <description>
+Solve equations that involve exponentials and logs
+            </description>
+        </outcome>
+         <outcome>
+            <title>  Exponentials Functions and models</title>
+            <slug>SLO-10</slug>
+            <path>outcomes/SLO-10</path>
+            <description>
+I can use an exponential model to solve compound intrest problems and other related exponential models
+            </description>
+        </outcome>
+        <outcome>
+            <title>  Derivatives of Exponetial and Logaritmic Functions</title>
+            <slug>SLO-11</slug>
+            <path>outcomes/SLO-11</path>
+            <description>
+I can find the derivatives of functions that involve exponential and logarithimuc functions
+            </description>
+        </outcome>
+    <outcome>
+            <title>  Intervals of Increasing and Decreasing</title>
+            <slug>SLO-12</slug>
+            <path>outcomes/SLO-12</path>
+            <description>
+I can use the first derivative to find intervals of increasing and decreasing and classify local extrema
+            </description>
+        </outcome>
+         <outcome>
+            <title>  Intervals of Concavity</title>
+            <slug>SLO-13</slug>
+            <path>outcomes/SLO-13</path>
+            <description>
+I can use the second derivative to find intervals of concave up and concave down
+            </description>
+        </outcome>
+        <outcome>
+            <title>  Curve Sketching</title>
+            <slug>SLO-14</slug>
+            <path>outcomes/SLO-14</path>
+            <description>
+I can sketch a function using information from the first and second derivates as well as asymptotes
+            </description>
+        </outcome>
+        <outcome>
+             <title> Extreme Values and Optimization</title>
+            <slug>SLO-15</slug>
+            <path>outcomes/SLO-15</path>
+            <description>
+I can find the absolute values on a closed interval and use this within applied optimization problems
             </description>
         </outcome>
     </outcomes>

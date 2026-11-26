@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+
+    <knowl>
+        <content>
+            <p>
+            Demonstrate and explain how to find the {{diff}} derivative of the following function:
+            <me>f(x)={{f}} </me>
+        </p>
+
+    </content>
+    <outtro>
+<p><me>f &apos;&apos; (x)= {{dfdx}}</me></p>
+    </outtro>
+<!-- {{#marginal}} -->
+    </knowl>
+     <knowl>
+            <intro>
+                <p>
+The weekly demand for a {{widget}} is  <m>p={{price}}</m> where p is the wholesale unit price in dollars and <m>x</m> denotes the quantity demanded. Suppose that the number of items produced is equal to the number of items sold and that
+the cost (in dollars) of producing <m>x</m> {{widget}}s is given by the
+following function:
+<me>C(x)={{cost_function}}.</me>
+                </p>
+            </intro>
+
+            <knowl>
+            <content>
+                <p>Find the marginal  Revenue function </p>
+            </content>
+            <outtro>
+                <p>
+                    The mariginal revenue is <m>R'(x)={{marginal_revenue}}</m>
+                </p>
+            </outtro>
+            </knowl>
+
+            <knowl>
+            <content>
+                <p>Find the marginal Cost </p>
+            </content>
+            <outtro>
+                <p>
+                    The marginal cost is <m>C'(x)={{marginal_cost}}</m>
+                </p>
+            </outtro>
+            </knowl>
+
+             <knowl>
+            <content>
+                <p>Find the marginal Profit </p>
+            </content>
+            <outtro>
+                <p>
+                     the marginal profit is <m>P'(x)={{marginal_profit}}</m>.
+                </p>
+            </outtro>
+            </knowl>
+              <knowl>
+            <content>
+                <p>Find the marginal elasticity of demand (Hint: <m>E(p)=-\frac{pf'(p)}{f(p)}
+                </m>) </p>
+            </content>
+            <outtro>
+                <p>
+                     the elasticity of demand is <m>E(p)={{Elasticity}}</m>.
+                </p>
+            </outtro>
+            </knowl>
+
+        </knowl>
+ <!-- {{/marginal}} -->
+</knowl>
